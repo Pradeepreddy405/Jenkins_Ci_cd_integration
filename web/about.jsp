@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>About Us</h1>
+    <h1>ABOUt___US</h1>
     <p>This is the about page.</p>
     <a href="index.jsp">Home</a> | <a href="contact.jsp">Contact</a>
 </body>
