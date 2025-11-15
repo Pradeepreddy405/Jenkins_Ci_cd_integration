@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>CONTACT_US</h1>
+    <h1>_CONTACT_US_</h1>
     <form action="submitContact.jsp" method="post">
         Name: <input type="text" name="name"><br><br>
         Email: <input type="email" name="email"><br><br>

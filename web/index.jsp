@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HOME_PAGE</title>
+    <title>_HOME__PAGE_</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>

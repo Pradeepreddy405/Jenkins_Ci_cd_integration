@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About Page</title>
+    <title>A-b-o-u-t P-a-g-e</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
